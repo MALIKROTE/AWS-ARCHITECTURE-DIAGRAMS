@@ -35,7 +35,7 @@
           <mxGeometry x="350" y="599" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="nS3cM953V6x9OzVrtw-j-23" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="345" y="41" width="80" height="80" as="geometry" />
+          <mxGeometry x="344" y="40" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nS3cM953V6x9OzVrtw-j-24" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.twoLineBusElbow;notch=25;" parent="1" vertex="1">
           <mxGeometry x="530" y="239" width="120" height="120" as="geometry" />
@@ -144,6 +144,21 @@
         </mxCell>
         <mxCell id="tZYCkock5qcPa5sVxR0--47" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.open_vpn;" vertex="1" parent="1">
           <mxGeometry x="360" y="159" width="39" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="tZYCkock5qcPa5sVxR0--47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="159" as="sourcePoint" />
+            <mxPoint x="382" y="119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--50" value="Openvpn&amp;nbsp;&lt;div&gt;Clinet&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="143" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
