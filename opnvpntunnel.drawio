@@ -151,6 +151,9 @@
             <mxPoint x="640" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--45" value="Openvpn&lt;div&gt;Clinet&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="113" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
