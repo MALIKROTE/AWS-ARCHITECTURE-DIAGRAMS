@@ -163,6 +163,12 @@
         <mxCell id="tZYCkock5qcPa5sVxR0--51" value="Vmbr0:172.16.0.117" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="413" y="48" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--52" value="tun0:10.8.2.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="164.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--53" value="tun0:10.8.1.0&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="458" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
