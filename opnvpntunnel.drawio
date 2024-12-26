@@ -41,7 +41,7 @@
           <mxGeometry x="530" y="239" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nS3cM953V6x9OzVrtw-j-25" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="601" y="174" width="80" height="80" as="geometry" />
+          <mxGeometry x="601" y="59" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tZYCkock5qcPa5sVxR0--13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;entryX=0.917;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nS3cM953V6x9OzVrtw-j-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,7 @@
           <mxGeometry x="316" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tZYCkock5qcPa5sVxR0--20" value="USER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="592" y="145" width="60" height="30" as="geometry" />
+          <mxGeometry x="673" y="95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tZYCkock5qcPa5sVxR0--21" value="Openvpn Tunnel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="247" y="355" width="110" height="30" as="geometry" />
@@ -99,6 +99,15 @@
         </mxCell>
         <mxCell id="tZYCkock5qcPa5sVxR0--26" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="426" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--29" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="590.59" y="193" width="96.83" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tZYCkock5qcPa5sVxR0--29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="sourcePoint" />
+            <mxPoint x="640" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
