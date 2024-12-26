@@ -160,6 +160,9 @@
         <mxCell id="tZYCkock5qcPa5sVxR0--50" value="Openvpn&amp;nbsp;&lt;div&gt;Clinet&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="143" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tZYCkock5qcPa5sVxR0--51" value="Vmbr0:172.16.0.117" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="413" y="48" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
